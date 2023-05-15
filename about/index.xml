@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on My site</title>
+    <title>About on 내 사이트</title>
     <link>https://wjdwlss.github.io/about/</link>
-    <description>Recent content in About on My site</description>
+    <description>Recent content in About on 내 사이트</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://wjdwlss.github.io/about/index.xml" rel="self" type="application/rss+xml" />

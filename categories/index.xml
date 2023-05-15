@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My site</title>
+    <title>Categories on 내 사이트</title>
     <link>https://wjdwlss.github.io/categories/</link>
-    <description>Recent content in Categories on My site</description>
+    <description>Recent content in Categories on 내 사이트</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://wjdwlss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />

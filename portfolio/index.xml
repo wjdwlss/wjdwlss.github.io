@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on My site</title>
+    <title>Portfolio on 내 사이트</title>
     <link>https://wjdwlss.github.io/portfolio/</link>
-    <description>Recent content in Portfolio on My site</description>
+    <description>Recent content in Portfolio on 내 사이트</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://wjdwlss.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />

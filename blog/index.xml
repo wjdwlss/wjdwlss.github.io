@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on My site</title>
+    <title>Blog on 내 사이트</title>
     <link>https://wjdwlss.github.io/blog/</link>
-    <description>Recent content in Blog on My site</description>
+    <description>Recent content in Blog on 내 사이트</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://wjdwlss.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Making a new Website</title>
+      <title>내 첫 블로그</title>
+      <link>https://wjdwlss.github.io/blog/%EC%B2%AB%EB%B8%94%EB%A1%9C%EA%B7%B8/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wjdwlss.github.io/blog/%EC%B2%AB%EB%B8%94%EB%A1%9C%EA%B7%B8/</guid>
+      <description>제 인적사항에 대해 말해보겠습니다.
+이름은 김정진이고, 나이는 23, 한국항공대학교 소프트웨어학과입니다.
+경기도 의정부시에 살고 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>My first blog</title>
       <link>https://wjdwlss.github.io/blog/first-blog/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
       
